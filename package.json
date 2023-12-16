@@ -62,7 +62,7 @@
     "@types/validator": "^13.7.10",
     "autoprefixer": "^10.4.0",
     "cssnano": "^5.0.8",
-    "cypress": "^11.2.0",
+    "cypress": "^13.6.1",
     "encoding": "^0.1.13",
     "env-cmd": "^10.1.0",
     "hast-util-heading-rank": "^2.1.0",
